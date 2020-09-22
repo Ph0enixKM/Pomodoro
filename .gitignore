@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+pomodoro_1.0.0_x64/
+pomodoro
+*.deb

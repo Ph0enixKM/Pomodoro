@@ -1,0 +1,1 @@
+clang -o pomodoro `pkg-config --cflags --libs libnotify` -lX11 main.c
