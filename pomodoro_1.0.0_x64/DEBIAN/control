@@ -1,0 +1,7 @@
+Package: pomodoro
+Version: 1.0
+Architecture: all
+Essential: no
+Priority: optional
+Maintainer: Phoenix Arts
+Description: Pomodoro is a lightweight app written to help keeping right working ethics.
